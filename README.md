@@ -19,3 +19,5 @@ urls = [
 ]
 ```
 4. Click the green "Commit changes" button at the bottom of the page. That's it! It will take ~3 minutes for the public-facing website to update with your changes once you commit them.
+
+I've uploaded a sample QR code for demonstration purposes, but it won't be high enough quality to show in the theater. It looks like [this](https://www.qr-code-generator.com/) site has lots of options available for free with an account - I'll let you decide how you want it to look!
