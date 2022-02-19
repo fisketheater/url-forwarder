@@ -4,7 +4,7 @@ Wrriten by Collin Sinclair
 
 ## Intent
 
-When a user scans a QR code pointing to [https://fisketheater.github.io/url-forwarder](https://fisketheater.github.io/url-forwarder) (or simply visits that site by typing the URL in, etc.), they will be forwarded to a random URL in the list of URLs in the [JavaScript file](https://github.com/fisketheater/url-forwarder/blob/main/script.js). The (original) purpose is to be able to collect survey information from large groups at one time (e.g., Fiske can create several Google Forms and send audience members to them randomly so they don't saturate).
+When a user scans a QR code pointing to [https://fisketheater.github.io/url-forwarder](https://fisketheater.github.io/url-forwarder) (or simply visits that site by typing the URL in, etc.), they will be forwarded to a random URL in the list of URLs in the [JavaScript file](https://github.com/fisketheater/url-forwarder/blob/main/script.js). The (original) purpose is to be able to collect survey information from large groups at one time (e.g., Fiske can create several Google Forms and send audience members to them randomly so they don't saturate). GitHub Pages sites should be able to handle 100GB of traffic everymonth, which is way more than this tool should ever encounter, so I don't expect it to crash ever.
 
 ## Customization
 
